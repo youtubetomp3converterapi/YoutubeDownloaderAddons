@@ -1,3 +1,22 @@
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name="description" content="AddonCrop is an online store that offers amazing and unique addons or extensions for your web browsers. The extensions available on addoncrop.com works perfectly for Google Chrome, Mozilla Firefox, Opera, Safari, and many other browsers. These extensions add more control and features to a web browser." />
+<link rel="canonical" href="https://addoncrop.com/" />
+<link rel="publisher" href="https://plus.google.com/+Addoncrop_Browser_addons/posts" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Addoncrop - Extends the functionality of your web browser" />
+<meta property="og:description" content="AddonCrop is an online store that offers amazing and unique addons or extensions for your web browsers. The extensions available on addoncrop.com works perfectly for Google Chrome, Mozilla Firefox, Opera, Safari, and many other browsers. These extensions add more control and features to a web browser." />
+<meta property="og:url" content="https://addoncrop.com/" />
+<meta property="og:site_name" content="Addoncrop" />
+<meta property="og:image" content="https://i1.wp.com/addoncrop.com/wp-content/uploads/2014/12/logo.jpg?fit=740%2C400&#038;ssl=1" />
+<meta property="og:image:secure_url" content="https://i1.wp.com/addoncrop.com/wp-content/uploads/2014/12/logo.jpg?fit=740%2C400&#038;ssl=1" />
+<meta property="og:image:width" content="740" />
+<meta property="og:image:height" content="400" />
 <article class="message-body js-selectToQuote">
 <div class="bbWrapper"><div style="text-align: center"><div class="lbContainer lbContainer--inline" data-xf-init="lightbox" data-lb-single-image="1" data-lb-container-zoom="1" data-lb-trigger=".js-lbImage-attachment14" data-lb-id="attachment14">
 <div class="lbContainer-zoomer js-lbImage-attachment14" data-src="https://community.download-lagu-mp3.com/attachments/youtube-downloader-addon-png.14/" aria-label="Zoom"></div>
