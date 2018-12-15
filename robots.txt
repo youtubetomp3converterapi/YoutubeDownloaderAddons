@@ -32,10 +32,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-User-agent: *
-Disallow: /mp3.php
-Disallow: /load.php
-Disallow: /watch/
-
-Sitemap: https://www.stafaband.download/sitemap.php
-Sitemap: https://www.stafaband.download/sitemap2.php
+Sitemap: https://addons.download-lagu-mp3.com/sitemap.xml
