@@ -18,6 +18,7 @@
 <meta property="og:image:width" content="740" />
 <meta property="og:image:height" content="400" />
 <article class="message-body js-selectToQuote">
+<link rel="shortcut icon" href="favicon.ico"/>
 <div class="bbWrapper"><div style="text-align: center"><div class="lbContainer lbContainer--inline" data-xf-init="lightbox" data-lb-single-image="1" data-lb-container-zoom="1" data-lb-trigger=".js-lbImage-attachment14" data-lb-id="attachment14">
 <div class="lbContainer-zoomer js-lbImage-attachment14" data-src="https://community.download-lagu-mp3.com/attachments/youtube-downloader-addon-png.14/" aria-label="Zoom"></div>
 <img src="https://community.download-lagu-mp3.com/attachments/youtube-downloader-addon-png.14/" data-url="" class="bbImage" data-zoom-target="1" alt="Youtube Downloader Addon.png" />
