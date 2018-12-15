@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name=viewport content="width=device-width, initial-scale=1”>
 <link rel="profile" href="https://gmpg.org/xfn/11">
 <meta name="description" content="addons.download-lagu-mp3.com is an online store that offers amazing and unique addons or extensions for your web browsers. The extensions available on addoncrop.com works perfectly for Google Chrome, Mozilla Firefox, Opera, Safari, and many other browsers. These extensions add more control and features to a web browser." />
 <link rel="canonical" href="https://addons.download-lagu-mp3.com/" />
