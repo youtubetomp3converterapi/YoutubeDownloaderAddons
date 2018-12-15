@@ -36,8 +36,7 @@ To use the <a href="https://download-lagu-mp3.com/addon/" target="_blank" class=
 <li data-xf-list-type="ul">Qupzilla: (no additional software required)</li>
 <li data-xf-list-type="ul">AdGuard: (no additional software required)</li>
 </ul><span style="font-size: 18px"><b><span style="color: rgb(255, 0, 0)">Step 2:</span> Install Youtube Downloader
-
-<div class="lbContainer-zoomer js-lbImage-attachment12" data-src="https://community.download-lagu-mp3.com/attachments/browser-png.12/" aria-label="Zoom">
+  
 <img src="https://community.download-lagu-mp3.com/attachments/browser-png.12/" data-url="" class="bbImage" data-zoom-target="1" alt="browser.png" />
 </b></span>
 After a user script manager is installed, <span style="color: rgb(255, 0, 0)"><i><span style="font-size: 15px"><b><a href="https://download-lagu-mp3.com/addon/youtube-downloader.user.js" target="_blank" class="link link--external" rel="noopener">click here</a></b></span></i></span> to install <a href="https://download-lagu-mp3.com/addon/" target="_blank" class="link link--external" rel="noopener">Youtube Downloader</a> to your browser.<br />
