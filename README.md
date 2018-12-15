@@ -48,7 +48,7 @@ Visit <a href="https://bit.ly/2QTbF2t" target="_blank" class="link link--externa
 <br />
 <span style="font-size: 18px"><b>Our Add-on is listed here:</b></span><br />
 <ul>
-<li data-xf-list-type="ul"><a href="https://addons.mozilla.org/id/firefox/addon/youtube-downloader-mp3-and-mp4/" target="_blank" class="link link--external" rel="noopener">Youtube Downloader (Firefox)</a></li>
+<li data-xf-list-type="ul"><a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-downloader-mp3-video/" target="_blank" class="link link--external" rel="noopener">Youtube Downloader (Firefox)</a></li>
 <li data-xf-list-type="ul"><a href="https://addons.opera.com/id/extensions/details/youtube-downloader-29/" target="_blank" class="link link--external" rel="noopener">Youtube Downloader (Opera Mini)</a></li>
 <li data-xf-list-type="ul"><a href="https://greasyfork.org/id/scripts/375226-youtube-downloader" target="_blank" class="link link--external" rel="noopener">Youtube Downloader (Greasyfork)</a></li>
 <li data-xf-list-type="ul"><a href="https://openuserjs.org/scripts/YoutubeDownloader/Youtube_Downloader" target="_blank" class="link link--external" rel="noopener">Youtube Downloader (Openuserjs)</a></li>
