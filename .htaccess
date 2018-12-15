@@ -1,6 +1,6 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www.addons.download-lagu-mp3.com$ [NC]
-RewriteRule ^(.*)$ https://addons.download-lagu-mp3.com/$1 [R=301,L]
+RewriteEngine On RewriteBase / RewriteCond %{HTTP_HOST} ^www.addons.download-lagu-mp3.com [NC]
+RewriteRule ^(.*)$ http://addons.download-lagu-mp3.com/$1 [L,R=301]
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
